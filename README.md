@@ -7,11 +7,11 @@ To be clear, it's the notes that may not be sufficiently worthy.  I assume the O
 
 In case it isn't immediately obvious, I don't know markdown formatting, and I can't figure out yet how to use the Silk browser on my new Fire tablet to make this look at all nice.  I also don't know yet how I will clone, edit, and commit from my Fire tablet.  But it's all going to be a learning process.  Supposedly, that's part of the fun, if you believe in that sort of stuff.
 
-OpenMower 10K View
+## OpenMower 10K View
 Mostly from https://openmower.de/docs/getting-started/
-Advance Actions
-Modify Mower
-Power Station Modification
-Software Setup
-Yard Zone And Mowing
+- Advance Actions
+- Modify Mower
+- Power Station Modification
+- Software Setup
+- Yard Zone And Mowing
 
