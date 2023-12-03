@@ -1,5 +1,12 @@
+
 #H RPi Advance Actions
 2023-12-03
+
+SD Card Setup
+- https://openmower.de/docs/robot-assembly/prepare-the-parts/prepare-sd-card/
+Has an excellent outline of the SD flash tools and process.
+Get a 16GB or larger SD card, and sit down at your Ubuntu or Windoze desktop to format, load, and configure.
+
 
 I didn't study the OM parts list in depth before taking the plunge and ording the big ticket items. So far I have ordered
 - YardForce Classic 500
