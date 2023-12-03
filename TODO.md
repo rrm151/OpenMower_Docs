@@ -1,6 +1,12 @@
 #H RRM OpenMower TODO list
 
 - Determine if there is any advance RPi things I can do.
+- .... Follow guidelines to load and configure an existing 16GB micro SD card.
+- ........ Get RPi Imaging software for the PC
+- ............ [RPi Imaging SW] https://www.raspberrypi.com/software/
+- ........ OpenMower has it's own OS for RPi.  Download it before firing up the Imaging SW.
+- .... Order a micro SD card, 16GB or larger.
+- .... Maybe get a USB drive, or repurpose an existing one for OM files and this Git repo?
 - __SOON__ Clear off basement workbench and island.
 - Determine if there is any advance things I can do with the Ardusimple hardware while waiting for the rest.
 - Research connectors and adapter proto boards.
