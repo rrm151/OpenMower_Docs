@@ -1,0 +1,33 @@
+#H RPi Advance Actions
+2023-12-03
+
+I didn't study the OM parts list in depth before taking the plunge and ording the big ticket items. So far I have ordered
+- YardForce Classic 500
+- OpenMower Upgrade Kit 0.13.x
+- Ardusimple RTK2B GPS kit (QTY: 2)
+   * Plus 1 extra ANN- B-00 antenna (to get free shipping)
+- RPi4
+   * Plus one RPi5 (Reason below.)
+
+2023-12-03 Received Items
+- Ardusimple RTK2B (plus 1 extra antenna)
+- Rpi4
+
+Since I didn't do a deep dive on the parts list, I didn't really expect that my shopping is done. 
+I am expecting that there will be a collection of ancillary items that I will need to order before the mower finally eats grass.
+The RPi4 arrived on Friday.  I have a closet full of earlier generation RPi boards, but my mania waned and I never bought an RPi4.
+I was surprised to find out that RPi5 is out, if maybe not truly available for shipment yet.
+I figure that an RPi5 would almost certainly replace an RPi4 in the OpenMower without issues, but *almost* wasn't quite good
+enough.  Even though the RPi5 was only $5 more than the RPi4, I bought the Pi4, and then added a (back ordered) Pi5 to console
+myself.  So that's why I ordered both a Pi4 and a Pi5.
+
+_But_ long after I opened the Pi box and ogled my new acquisition, I finally realized that my closet full of Pi accessories
+might not include things I will --need-- want (it feels like "need") for my new Pi4 and Pi5 boards.  I haven't played with my Pi
+units for a while, but I am pretty sure that they power through a micro USB connector.  The Pi4 has a USB C, which is a nice
+upgrade, but I don't know if my bricks for charging my iPhone or Fire tablet have enough amps or exact voltage to power the Pi4.
+I remember that the Pi units can be a little fussy about power, so I researched a little and then ordered a USB C power brick
+designed for use with the Pi4.  CanaKit 3.5A Raspberry Pi 4 Power Supply, $10 at Amazon.  
+So, now I can play with the Pi4 if I want.  I didn't order any SD micro card, but I have about a dozen of those in my Pi storage
+closet, so no worries, probably.  But *wait*, I seem to remember that the newer Pi units use micro HDMI, and I don't think my
+Pi3 units did yet.  If so, I may need to order a micro HDMI to HDMI video cable.  First, check my RPi3, or just look online,
+to determine if I already have a cable.  So, that goes on the TODO list.
