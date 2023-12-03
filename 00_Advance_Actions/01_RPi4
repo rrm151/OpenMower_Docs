@@ -31,3 +31,10 @@ So, now I can play with the Pi4 if I want.  I didn't order any SD micro card, bu
 closet, so no worries, probably.  But *wait*, I seem to remember that the newer Pi units use micro HDMI, and I don't think my
 Pi3 units did yet.  If so, I may need to order a micro HDMI to HDMI video cable.  First, check my RPi3, or just look online,
 to determine if I already have a cable.  So, that goes on the TODO list.
+
+2023-12-03:  Yes, I need a micro HDMI cable.
+RPi3 did _not_ use micro HDMI.  And, BTW, RPi4/5 have *dual* micro HDMI outputs.
+So, I'm going to *need* one cable, but will *want* at least two cables.
+Here's a 2022 article with a quick review of 6 cables,  https://www.androidcentral.com/best-micro-hdmi-hdmi-cables-raspberry-pi-4
+
+
