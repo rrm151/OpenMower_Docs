@@ -1,4 +1,4 @@
-#h My OpenMower Project Status
+#H My OpenMower Project Status
 
 Parts Status
 - Yardforce Classic 500
